@@ -139,6 +139,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **[Your Name](https://github.com/your-username)**
+Made with ❤️ by Lakshitpythondevloper
 
 > *"Pacify your data chaos — one object at a time."*
