@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20Mac-lightgrey?style=for-the-badge"/>
 </p>
